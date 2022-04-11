@@ -1,0 +1,15 @@
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/bin/Debug/net5.0/Deliverable1.deps.json
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/bin/Debug/net5.0/Deliverable1.runtimeconfig.json
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/bin/Debug/net5.0/Deliverable1.runtimeconfig.dev.json
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/bin/Debug/net5.0/Deliverable1.dll
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/bin/Debug/net5.0/ref/Deliverable1.dll
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/bin/Debug/net5.0/Deliverable1.pdb
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/obj/Debug/net5.0/Deliverable1.csproj.AssemblyReference.cache
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/obj/Debug/net5.0/Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/obj/Debug/net5.0/Deliverable1.AssemblyInfoInputs.cache
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/obj/Debug/net5.0/Deliverable1.AssemblyInfo.cs
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/obj/Debug/net5.0/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/obj/Debug/net5.0/Deliverable1.dll
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/obj/Debug/net5.0/ref/Deliverable1.dll
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/obj/Debug/net5.0/Deliverable1.pdb
+/Users/kellysullivan/Documents/Grand Circus/Deliverable1/Deliverable1/obj/Debug/net5.0/Deliverable1.genruntimeconfig.cache
